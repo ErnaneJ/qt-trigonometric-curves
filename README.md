@@ -6,13 +6,13 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contribute">Contribute</a>&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-contribute">Contribute</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br/>
 
 <p align="center">
-  <img alt="qt trigonometric curves preview" src="./assets/preview.gif" width="100%">
+  <img alt="qt trigonometric curves preview" src="./assets/preview.gif" width="65%">
 </p>
 
 ## 🚀 Technologies
